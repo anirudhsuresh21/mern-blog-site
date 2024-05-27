@@ -42,7 +42,7 @@ Make sure you have the following installed on your machine:
 3.  Set up environment variables 
 
 ## Running the Application
-### Frontend
+### Backend
 1. Navigate to api directory
 	```bash
 	cd api
