@@ -9,12 +9,8 @@ This project is a full-stack blogging website built with the MERN stack (MongoDB
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Environment Variables](#environment-variables)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -45,6 +41,7 @@ Make sure you have the following installed on your machine:
 
 3.  Set up environment variables 
 
+## Running the Application
 ### Frontend
 1. Navigate to api directory
 	```bash
